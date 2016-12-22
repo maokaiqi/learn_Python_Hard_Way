@@ -27,5 +27,6 @@ print type(s3)
 s4 = raw_input("输入你的幸运数字：")
 print type(s4)
 print "input要输出\' \"需要带上转义符号\\，而raw_input不需要。"
+print ":end"
 
 
