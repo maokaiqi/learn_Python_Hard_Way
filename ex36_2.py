@@ -19,3 +19,4 @@ def start():
 		ex36_1.dead("you must staying here until police arrivd!")
 
 start()
+
